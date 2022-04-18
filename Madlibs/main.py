@@ -1,6 +1,9 @@
+# # Madlibs is a program to insert random words in a text.
+# # Exercise of cancatenation
 
-adj1= input("Adjetive: ")
-adj2= input("Adjetive: ")
+
+adj1= input("Adjective: ")
+adj2= input("Adjective: ")
 name= input("Your name: ")
 
 
